@@ -1,0 +1,15 @@
+.banner {
+    background-image: url(../assets/images/banner.png);
+    background-color: black;
+}
+
+#logo {
+    margin-left: 500px;
+    margin-top: 50px;
+}
+
+#button_insc {
+    position: relative;
+    left: 555px;
+    bottom: 70px;
+}
